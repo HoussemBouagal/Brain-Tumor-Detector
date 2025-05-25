@@ -53,7 +53,7 @@ The confusion matrix shows how well the model distinguishes between tumor types.
 ![Application Interface](assets/app_interface.png)
 
 - Drag and drop or browse to load MRI images
-- AI prediction with class and confidence
+- AI prediction with class and real class  
 - Clean, minimal, and modern design (Tkinter)
 
 ---
