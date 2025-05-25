@@ -1,7 +1,7 @@
 
 # 🧠 Brain Tumor Detection System (Desktop AI Assistant)
 
-A professional desktop application that leverages deep learning to classify brain MRI images and detect tumors with high accuracy. Built using **TensorFlow** and **Tkinter**, the app offers an intuitive and fast experience for non-commercial use.
+A professional desktop application that uses deep learning techniques to classify brain MRI images and detect tumors with high accuracy. Built with TensorFlow and Tkinter, the application offers a fast and easy-to-use experience.
 
 > 📖 **License**: This project is licensed under the [MIT License](#-license).
 
@@ -53,7 +53,7 @@ The confusion matrix shows how well the model distinguishes between tumor types.
 ![Application Interface](assets/app_interface.png)
 
 - Drag and drop or browse to load MRI images
-- AI prediction with class and real class  
+- AI-based class prediction and comparison with the true class label 
 - Clean, minimal, and modern design (Tkinter)
 
 ---
