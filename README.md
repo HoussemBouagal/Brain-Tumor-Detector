@@ -50,7 +50,7 @@ The confusion matrix shows how well the model distinguishes between tumor types.
 
 ## 🖥️ Application UI
 
-![Application Interface](assets/app_interface.png)
+![Application Interface](assets/app_interface.jpg)
 
 - Drag and drop or browse to load MRI images
 - AI-based class prediction and comparison with the true class label 
@@ -72,7 +72,7 @@ BrainTumorDetection/
 │   ├── brain_tumor.keras # Trained Keras model
 
 ├── assets/                     # Images for documentation (UI, graphs, etc.)
-│   ├── app_interface.png
+│   ├── app_interface.jpg
 │   ├── accuracy_curve.png
 │   └── confusion_matrix.png
 │
