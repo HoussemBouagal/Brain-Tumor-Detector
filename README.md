@@ -77,7 +77,7 @@ BrainTumorDetection/
 │   └── confusion_matrix.png
 │
 ├── main.py    # Main application (GUI + prediction)
-    brain-cancer.png  # App icon
+├── brain-cancer.png  # App icon
 ├── LICENSE                     # MIT License file
 └── README.md                   # Project documentation
 ```
